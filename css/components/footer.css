@@ -1,0 +1,120 @@
+.footer__backgraund{
+    background-image: url(../../images/jpg/Rectangle\ 15.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.footer__title{
+    font-family: 'Playfair Display',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 40px;
+}
+.footer__text{
+    font-family: 'PT Sans',sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+    width: 350px;
+    color: #FFFFFF;
+    padding-right: 31px;
+}
+.footer__right__text{
+    font-family: 'PT Sans',sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+    width: 350px;
+    color: #FFFFFF;
+    padding-bottom: 37px;
+}
+.footer__links{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.footer__link{
+    font-family: 'PT Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    color: #D0D0D0;
+    display: block;
+    padding: 10px 20px;
+    background-color: black;
+    margin: 0 20px 20px 0;
+    transition: 0.3s;
+}
+.footer__link:hover{
+    background-color: rgba(0, 0, 0, .4);
+}
+
+
+.footer__button{
+    font-family:'PT Sans',sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+    color: #FFFFFF;
+    flex: none;
+    padding: 12px 20px;
+    background-color: #0F0F0F;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-left: -4px;
+    text-transform:uppercase;
+    }
+    .footer__input::placeholder{
+        color:white;
+        opacity: 0.4;
+    }
+    .footer__button:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+    }
+.footer__input{
+    padding-left: 20px;
+    outline:none ;
+    border: none;
+    background: rgba(255, 255, 255, 0.25);
+    width: 210px;
+    height: 42px;
+    left: 1165px;
+    top: 4140px;
+    color: white;
+    font-family: 'PT Sans',sans-serif;
+}
+.footer__left, .footer__middle, .footer__right{
+    margin: 80px 0;
+}
+.footer__dno__row{
+    justify-content: space-between;
+}
+.dno__text1{
+    font-family: 'PT Sans' sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #D0D0D0;
+    padding: 17px 0px;
+}
+.dno__text2{
+    font-family: 'PT Sans' sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #D0D0D0;
+    padding: 17px 0px;
+}
+
+
+
+

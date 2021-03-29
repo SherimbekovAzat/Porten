@@ -1,0 +1,64 @@
+
+.season__name, .season__price{
+    font-family: 'Playfair Display', sans-serif;
+    font-style: normal;
+    align-self: center;
+}
+.season__name{
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+.season__price{
+    font-weight: bold;
+    font-size: 16px;
+    color: #D0D0D0;
+    margin-top: 10px;
+}
+.season__row {
+    /* margin: 0 55px; */
+     min-width: 0;
+  }
+.season__watch{
+    background-color: #191b1c;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 55px 10px;
+}
+.season__left{
+    padding:93px 0px ;
+}
+.season__item{
+    /* width:100%;
+    flex-direction: column ;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    margin:0 ; */
+    padding: 25px ;
+    display: flex;
+    flex-direction: column;
+    max-width: 100%;
+    padding: 0 25px;
+}
+.season__img{
+    width: 100%;
+}
+.season__right{
+    background-image: url(../../images/jpg/Rectangle\ 8.jpg);
+    height: 100%;
+    background-size:cover ;
+    position: relative;
+}
+
+.season__right--content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    bottom: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+}

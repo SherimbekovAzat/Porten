@@ -1,0 +1,13 @@
+@media screen and (max-width:768px){
+    .collection__left{
+        height: 100%;
+        margin: 250px 0 0 0 ;
+    }
+    .collection__right{
+        margin-top: 180px;
+    }
+    .collection__text{
+        width: 550px;
+        font-size: 25px;
+    }
+}

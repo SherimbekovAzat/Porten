@@ -1,0 +1,15 @@
+.brands{
+    background-color: #0F0F0F;
+    margin-top: 150px;
+}
+.brands__title{
+    margin: 0px auto;
+    padding: 60px 0px ;
+}
+.brands__catalog{
+    display: flex;
+    padding-bottom: 80px;
+}
+.brands__item{
+    width: 200px;
+}

@@ -1,0 +1,10 @@
+@media screen and (max-width:768px){
+   .hero{
+       height: 100%;
+   }
+    .hero__text{
+        width: 650px;
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+}

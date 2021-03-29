@@ -1,0 +1,6 @@
+@media screen and (max-width:768px){
+    .season__right{
+        position: none ;
+        padding: 200px 0 0 0 ;
+    }
+}

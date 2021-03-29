@@ -1,0 +1,17 @@
+@media screen and (max-width:768px){
+    .arrival{
+        margin-top: -130px;
+    }
+    .arrival__item{
+        margin: 20px 15px ;
+    }
+    .arrival__watch{
+        padding: 45px 3px;
+    }
+    .arival__name{
+        font-size: 25px;
+    }
+    .arrival__price{
+        font-size: 25px;
+    }
+}
